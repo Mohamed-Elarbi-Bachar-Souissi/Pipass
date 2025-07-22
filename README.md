@@ -29,7 +29,7 @@ Installation
 
     Clone the repository (or download the ZIP):
 
-    If you have Git installed and configured (which you now do!):
+    If you have Git installed and configured:
 
     git clone https://github.com/Mohamed-Elarbi-Bachar-Souissi/Pipass.git
     cd Pipass
